@@ -1,4 +1,5 @@
-# 🚀 Denny Ruchiat | Data & BI Analyst
+# 🚀 Denny Ruchiat
+Informatics Engineer | Business Intelligence Analyst | Data Visualization & UI/UX Design | SQL • Power BI • Figma
 
 Hi there! I'm an **Informatics Engineering** graduate from **University of Brawijaya**. I bridge the gap between technical data engineering and user-centric business insights. I specialize in building automated ETL pipelines and high-impact dashboards that drive strategic decision-making.
 
