@@ -15,10 +15,12 @@ Hi there! I'm an **Informatics Engineering** graduate from **University of Brawi
 
 ### 📊 Featured Projects
 
-#### [Job Market Intelligence: Salary Trends & Career Prediction](https://github.com/dennysproject/salary-prediction)
-* **The Problem:** High information asymmetry in job market salary benchmarking.
-* **The Action:** Built a Python ETL pipeline to process large-scale salary datasets, analyzing correlations between certifications and tenure.
-* **The Result:** Developed an interactive dashboard revealing a 12% salary premium for remote Tech roles.
+#### [Automated ETL Pipeline: Indonesia Regional Economic Data (BPS)](https://github.com/dennysproject/automated-etl-pipeline-indonesia-regional-economic-data)
+Manual collection of regional economic data (PDRB) from the Central Bureau of Statistics (BPS) is often hindered by fragmented APIs and inconsistent regional identifiers. This project automates the **Extraction, Transformation, and Loading (ETL)** of PDRB data across **38 provinces** from 2010 to 2025.
+
+* **Data Source:** BPS (Badan Pusat Statistik) Indonesia Web API.
+* **Target:** PostgreSQL Relational Database.
+* **Tech Stack:** Python (Pandas, Requests, SQLAlchemy), PostgreSQL, JSON Processing.
 
 #### [Global Sales & Profitability: Executive Financial Intelligence](https://github.com/dennysproject/finance-report)
 * **The Problem:** Fragmented financial data across multiple regions and product segments made it difficult for executives to identify which combinations drove the highest net profit.
@@ -28,5 +30,5 @@ Hi there! I'm an **Informatics Engineering** graduate from **University of Brawi
 ---
 
 ### 📫 Connect with me:
-* **LinkedIn:** [linkedin.com/in/dennyruchiat](https://linkedin.com/in/dennyruchiatatwork)
+* **LinkedIn:** [linkedin.com/in/dennyruchiatatwork](https://linkedin.com/in/dennyruchiatatwork)
 * **Behance:** [behance.net/denny_ruchiat](https://www.behance.net/denny_ruchiat)
