@@ -22,6 +22,11 @@ Manual collection of regional economic data (PDRB) from the Central Bureau of St
 * **Target:** PostgreSQL Relational Database.
 * **Tech Stack:** Python (Pandas, Requests, SQLAlchemy), PostgreSQL, JSON Processing.
 
+#### [Job Market Intelligence: Tech Salary Trends](https://github.com/dennysproject/job-market-intelligence)
+* **The Problem:** Tech professionals and recruiters often lack clear visibility into how compensation fluctuates across different industries and specific technical roles, making salary benchmarking difficult.
+* **The Action:** Cleaned a massive dataset of 250,000+ records using SQL and developed an interactive Power BI dashboard. Implemented dynamic DAX measures and an intuitive side-navigation slicer allowing users to filter across 12+ tech roles (including Data Analyst, AI Engineer, and Cloud Engineer).
+* **The Result:** Delivered a sleek, dark-mode analytics tool tracking average ($146K) and median salaries. The dashboard instantly reveals actionable market insights, such as the Education and Media sectors currently offering the most competitive average compensation for tech talent.
+
 #### [Global Sales & Profitability: Executive Financial Intelligence](https://github.com/dennysproject/finance-report)
 * **The Problem:** Fragmented financial data across multiple regions and product segments made it difficult for executives to identify which combinations drove the highest net profit.
 * **The Action:** Designed a multi-dimensional Power BI dashboard utilizing complex filtering and regional mapping to track Profit-over-Time and Sales performance by Product Segment.
